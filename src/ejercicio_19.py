@@ -6,4 +6,4 @@ for letra in frase:
   if letra.lower() in vocales:
     contador += 1
 
-print(f"La cantidad de vocales en la frase es: {contador}")
+print(f"La cantidad de vocales de la frase es: {contador}")
